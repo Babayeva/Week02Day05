@@ -1,0 +1,544 @@
+body{
+	margin:0;
+	padding:0;  
+}
+.first{
+	margin-top: -40px;
+	width: 100%;
+	height: 600px;
+	background-image: url(hero-bg.jpg);
+	background-size: cover;
+}
+.photo{
+	float: right;
+	width: 50px;
+	height: 50px;
+	margin: 50px 100px 0 0;
+}
+h1{
+	text-align: center;
+	padding: 190px;
+	font-family: Helvetica;
+	color: #333;
+	font-size: 60px;
+}
+span{
+	color:#a9a9a9; 
+}
+.firsttext{
+	font-size: 20px;
+	margin-top: -220px;
+	text-align: center;
+	color: #a9a9a9;
+}
+
+.second{
+	font-size: 18px;
+	background-color: deepSkyBlue;
+	color: white;
+	padding: 20px;
+	border-radius:7%; 
+	margin-left: 510px; 
+	box-shadow: 0 5px lightblue;
+}
+.second:hover{
+	opacity: .5;
+	transition: all .2s ease;
+}
+.third{      
+	margin-top:-19px; 
+	padding-bottom: 60px;
+	letter-spacing: 1px;
+	background:url(h1-bg.png) no-repeat center;
+	background-color: #f3f2f2; 
+}
+.fourth{
+	margin-top: -150px;
+	font-size: 14px;
+}
+.text{
+	margin: -110px 350px 0 350px;
+	font-size: 12px;
+}
+.fifth{
+	/*Varela Round*/
+	color: black;
+}
+.sixth{
+	color: #353535;
+	background:url(h1-bg.png) no-repeat center; 
+	margin-top: -20px;
+	letter-spacing: 1px;
+	padding-bottom:1px;
+}
+
+.seventh{
+	text-align: center;
+	margin: 100px;
+}
+h2::after {
+    content: " ";
+    border: solid 2px #3dc9b3;
+    display: block;
+    width: 35px;
+    margin: 25px auto;
+    }
+.one
+{	
+	height: 400px;
+	width: 400px;
+	margin-left: 120px;
+	
+}
+.computer
+{
+	height: 250px;
+	margin-left: 40px;
+
+}
+.comhead
+{	
+	margin-top: 30px;
+	font-family: inherit;
+	font-size: 14px;
+	margin-left: -10px;
+ 	text-align: center;
+}
+.comtext
+{ 	height: 20px;
+	width: 250px;
+	margin-left: 60px;
+	color: #8c9398;
+    word-spacing: 1px;
+    font-size: 12px;
+    text-align: center;
+}
+.two
+{
+	height: 400px;
+	width: 400px;
+	margin-left: 500px;
+	margin-top: -390px;
+}
+.math
+{	
+	margin-top: -40px;
+ 	height: 270px;
+}
+.mathhead
+{	
+	font-family: inherit;
+	font-size: 14px;
+	margin:20px 0 0 -50px;
+	text-align: center;
+}
+
+.mathtext
+{
+	margin-left: 50px;
+ 	height: 20px;
+	width: 250px;
+	color: #8c9398;
+    word-spacing: 1px;
+    font-size: 12px;
+    text-align: center;
+}
+.three
+{
+	height: 400px;
+	width: 400px;
+	margin-left: 890px;
+	margin-top: -435px;
+}
+.heart
+{
+	height: 220px;
+}
+.hearthead
+{	
+	font-family: inherit;
+	font-size: 14px;
+	margin-left: -150PX;
+	margin-top: 50px;
+	text-align: center;
+}
+.hearttext
+{
+	height: 20px;
+	width: 250px;
+	color: #8c9398;
+    word-spacing: 1px;
+    font-size: 12px;
+    text-align: center;
+}
+.four
+{
+	margin-top: 20px;
+	margin-left: 590px;
+	background-color: white;
+	position: absolute;
+	width: 600px;
+	height: 550px;
+}
+.iphone{
+	margin-left: 50px;
+	position: absolute;
+
+}
+.ihead
+{	
+	margin-right: -150px;	
+	font-size: 	18px;
+    letter-spacing: 1px;
+    background: url("h1-bg.png") no-repeat center bottom;
+    padding-bottom: 30px;
+    line-height: 25px;
+}
+.itext
+{
+	margin:0;
+	text-align: center;	
+	color: #8c9398;
+    word-spacing: 1px;
+    line-height: 25px;
+    font-size: 14px;
+}
+.five{
+	width: 100%;
+	background-image: url(plants-bg.jpg);
+	background-size: cover;
+	height: 200px;
+	margin-top: 650px;
+	padding-top: 75px;
+}
+.plants{
+	text-align: center;
+	color: white;
+	font-size: 30px;
+}
+.plant{
+	text-align: center;
+	color: white;
+	font-size: 25px;
+}
+.six
+{	
+	height: 400px;
+	width: 400px;
+	margin-left: 100px;
+	
+}
+.way
+{
+	height: 120px;
+	margin:50px 0 0 130px;
+
+}
+.wayhead
+{	
+	margin-top: 30px 0 0 -100px;
+	font-family: inherit;
+	font-size: 14px;
+ 	text-align: center;
+}
+.waytext
+{ 	height: 20px;
+	width: 250px;
+	margin-left: 100px;
+	color: #8c9398;
+    word-spacing: 1px;
+    font-size: 12px;
+    text-align: center;
+}
+.seven
+{
+	height: 400px;
+	width: 400px;
+	margin-left: 550px;
+	margin-top: -390px;
+}
+.work
+{	
+	margin: 20px; 
+ 	height: 120px;
+}
+.workhead
+{	
+	font-family: inherit;
+	font-size: 14px;
+	margin:-10px 0 0 -150px;
+	text-align: center;
+}
+
+.worktext
+{
+ 	height: 20px;
+	width: 250px;
+	color: #8c9398;
+    word-spacing: 1px;
+    font-size: 12px;
+    text-align: center;
+}
+.eight
+{
+	height: 400px;
+	width: 400px;
+	margin-left: 900px;
+	margin-top: -435px;
+}
+.dog
+{
+	height: 120px;
+	margin-top: 35px;
+}
+.doghead
+{	
+	font-family: inherit;
+	font-size: 14px;
+	margin:10px 0 0 -150PX;
+	text-align: center;
+}
+.dogtext
+{
+	height: 20px;
+	width: 250px;
+	color: #8c9398;
+    word-spacing: 1px;
+    font-size: 12px;
+    text-align: center;
+}
+.black{
+	width: 100%;
+	height: 200px;
+	background-color: black;
+}
+.bsubmit{
+	background-color: black;
+	color: white;
+	border: 1px solid white;
+	padding: 20px;
+	margin: 75px 0 0 550px;
+}
+.nine{
+	color: #353535;
+	background:url(h1-bg.png) no-repeat center; 
+	margin-top: -20px;
+	letter-spacing: 1px;
+	padding-bottom:1px;
+}
+
+.people{
+	text-align: center;
+	margin: 100px;
+}
+.ten
+{	
+	height: 400px;
+	width: 400px;
+	margin-left: 100px;
+	
+}
+.personone{
+	height: 220px;
+	margin:0 0 0 120px;
+
+}
+.pohead
+{	
+	/*margin-top: 30px 0 0 50px;*/
+	font-family: inherit;
+	font-size: 14px;
+ 	text-align: center;
+}
+.potext
+{ 	height: 20px;
+	width: 250px;
+	margin-left: 90px;
+	color: #8c9398;
+    word-spacing: 1px;
+    font-size: 12px;
+    text-align: center;
+}
+.eleven
+{
+	height: 400px;
+	width: 400px;
+	margin-left: 540px;
+	margin-top: -390px;
+}
+.persontwo
+{	
+	margin:-25px 20px 20px; 
+ 	height: 220px;
+}
+.pthead
+{	
+	font-family: inherit;
+	font-size: 14px;
+	margin:-10px 0 0 -150px;
+	text-align: center;
+}
+
+.pttext
+{
+ 	height: 20px;
+	width: 250px;
+	color: #8c9398;
+    word-spacing: 1px;
+    font-size: 12px;
+    text-align: center;
+}
+.twelve
+{
+	height: 400px;
+	width: 400px;
+	margin-left: 880px;
+	margin-top: -435px;
+}
+.personthree
+{
+	height: 220px;
+	margin-top: -15px;
+}
+.pthhead
+{	
+	font-family: inherit;
+	font-size: 14px;
+	margin:10px 0 0 -150PX;
+	text-align: center;
+}
+.pthtext
+{
+	height: 20px;
+	width: 250px;
+	color: #8c9398;
+    word-spacing: 1px;
+    font-size: 12px;
+    text-align: center;
+}
+.thirteen{
+	width: 100%;
+	background-image: url(keyboard-bg.jpg);
+	background-size: cover;
+	height: 300px;
+	padding-top: 75px;
+}
+.keyboard{
+	color: white;
+	text-align: center;
+	margin-top: 90px;
+	letter-spacing: 1px;
+}
+.input{
+margin: 25px 0 0 550px; 
+background-color: transparent;
+width: 200px;
+height: 40px;
+}
+.keysubmit{
+	background-color: #6FCAB8;
+	color: white;
+	border: 1px solid #59D8BF;
+	padding: 15px;
+	margin: 25px 0 0 0;
+}
+.fourteen{
+	color: #353535;
+	background:url(h1-bg.png) no-repeat center; 
+	margin-top: -20px;
+	letter-spacing: 1px;
+	padding-bottom:1px;
+}
+ .justend{
+ 	text-align: center;
+	margin: 100px;
+ }
+ .fifteen
+{
+	width: 400px;
+	height: 400px;
+	margin:50px 0 0 80px;
+
+}
+.adress
+{	
+	margin-top: 30px 0 0 -150px;
+	font-family: inherit;
+	font-size: 28px;
+ 	text-align: center;
+ 	color: #4FBFA8;
+}
+.level
+{ 	height: 20px;
+	width: 250px;
+	margin-left: 60px;
+	color: #8c9398;
+    word-spacing: 1px;
+    font-size: 18px;
+    text-align: center;
+}
+.sixteen
+{
+	height: 400px;
+	width: 400px;
+	margin-left: 550px;
+	margin-top: -410px;
+}
+.phone
+{	
+	font-family: inherit;
+	font-size: 28px;
+	margin:-10px 0 0 -150px;
+	text-align: center;
+	color: #4FBFA8;
+}
+
+.mobile
+{
+ 	height: 20px;
+	width: 250px;
+	color: #8c9398;
+    word-spacing: 1px;
+    font-size: 18px;
+    text-align: center;
+}
+.seventeen
+{
+	height: 400px;
+	width: 400px;
+	margin-left: 900px;
+	margin-top: -430px;
+}
+.email
+{	
+	font-family: inherit;
+	font-size: 28px;
+	margin:10px 0 0 -150PX;
+	text-align: center;
+	color: #4FBFA8;
+}
+.mail
+{
+	height: 20px;
+	width: 250px;
+	color: #8c9398;
+    word-spacing: 1px;
+    font-size: 18px;
+    text-align: center;
+}
+.end{
+	width: 1148px;
+	height: 10px;
+	background-color: black;
+	padding: 100px;
+
+}
+.last{
+	color:  #8c9398;
+}
+
+.design{
+	color: white;
+	margin-top: -55px;
+	float: right; 
+}
